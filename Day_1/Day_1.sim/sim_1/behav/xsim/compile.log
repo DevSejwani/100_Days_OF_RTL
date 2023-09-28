@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog_Projects/100_Days_of_Rtl/Day_1/Day_1.srcs/sources_1/new/All_gates.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module All_gates
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog_Projects/100_Days_of_Rtl/Day_1/Day_1.srcs/sim_1/new/All_gates_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module All_gates_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Verilog_Projects/100_Days_of_Rtl/Day_1/Day_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
