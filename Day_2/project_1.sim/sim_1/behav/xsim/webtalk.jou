@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Sep 29 20:59:37 2023
+# Process ID: 3000
+# Current directory: D:/Verilog_Projects/100_Days_of_Rtl/project_1/project_1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Verilog_Projects/100_Days_of_Rtl/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/Basic_gates_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Verilog_Projects/100_Days_of_Rtl/project_1/project_1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Verilog_Projects/100_Days_of_Rtl/project_1/project_1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Verilog_Projects/100_Days_of_Rtl/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/Basic_gates_tb_behav/webtalk/xsim_webtalk.tcl -notrace
